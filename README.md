@@ -29,6 +29,7 @@ Use the same URL each time. Browser storage is scoped by origin, so `localhost:8
 - Toggle customer flow, old partition and annotations
 - Track estimated retail/back-office area and staples-bin count live
 - Save the current plan to browser local storage; the app also auto-saves when the page is hidden or closed
+- Export/import a layout JSON file to move a saved plan between localhost, GitHub Pages, browsers or teammates
 - Toggle between the editable 2D plan and a live 3D isometric store view
 - Orbit the 3D camera by dragging and zoom with the mouse wheel
 - See stocked rack shelves, staples bins, fresh displays, refrigeration, billing and architectural boundaries in 3D
