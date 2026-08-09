@@ -25,6 +25,7 @@ Use the store selector in the header to switch between:
 - Configure rack height, number of bays and 1–1.5 ft bay width before adding
 - Floor racks are represented as two-sided; wall racks are one-sided
 - Racks can be categorised as General, Ambient vegetables, Staples, FMCG or General merchandise
+- The dedicated Ambient Veg Rack tool lets users choose one-sided or two-sided construction and free/middle or edge placement
 - Each rack can use free/grid placement or edge snapping against walls, the partition, fixed shaft or another rack
 - Umbrellas and broom sticks use a compact 1 ft × 1 ft square long-goods bin; the separate vegetable-stand fixture has been removed
 - Rack height is metadata (typically 5 ft floor / up to 9 ft wall) and no longer changes the top-view footprint length
@@ -46,7 +47,7 @@ Use the store selector in the header to switch between:
 ## Arekkere concept
 
 - 36 staples bins, reduced from the earlier 48-bin proposal
-- Fresh visible early in the journey, with an ambient-vegetable one-sided rack along the inner-left wall
+- Fresh visible early in the journey, with an ambient-vegetable two-sided rack placed freely in the middle
 - Adjacent supervised entry and exit aligned directly with the left staircase: entry on the left, exit on the right
 - Rice-bag/pallet display allowed at the left stair landing, clearly marked as outside billing control
 - Right boundary treated as glazing; fixtures may still be placed there deliberately
