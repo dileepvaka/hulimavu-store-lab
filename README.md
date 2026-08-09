@@ -26,7 +26,7 @@ Use the store selector in the header to switch between:
 - Floor racks are represented as two-sided; wall racks are one-sided
 - Racks can be categorised as General, Ambient vegetables, Staples, FMCG or General merchandise
 - Each rack can use free/grid placement or edge snapping against walls, the partition, fixed shaft or another rack
-- Umbrella/broom stands remain available for long goods; the separate vegetable-stand fixture has been removed
+- Umbrellas and broom sticks use a compact 1 ft × 1 ft square long-goods bin; the separate vegetable-stand fixture has been removed
 - Rack height is metadata (typically 5 ft floor / up to 9 ft wall) and no longer changes the top-view footprint length
 - Configure chiller/freezer type and length, ice-cream chest-freezer size, ambient vegetable-stand width, bin count, pallet count and quantity
 - Add any number of billing counters and turnstiles from the fixture library
@@ -47,7 +47,7 @@ Use the store selector in the header to switch between:
 
 - 36 staples bins, reduced from the earlier 48-bin proposal
 - Fresh visible early in the journey
-- Adjacent supervised entry and exit
+- Adjacent supervised entry and exit aligned directly with the left staircase: entry on the left, exit on the right
 - Rice-bag/pallet display allowed at the left stair landing, clearly marked as outside billing control
 - Right boundary treated as glazing; fixtures may still be placed there deliberately
 - Separate browser save and import/export file names from Hulimavu
