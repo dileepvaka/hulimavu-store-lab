@@ -1,6 +1,6 @@
 # Hulimavu Store Lab
 
-Interactive browser-based fixture planner for the proposed ~2,000 sq ft Hulimavu retail layout.
+Interactive browser-based fixture planner for the Hulimavu and Arekkere retail layouts.
 
 ## Run
 
@@ -13,6 +13,11 @@ python3 -m http.server 8080
 Then open <http://localhost:8080>.
 
 Use the same URL each time. Browser storage is scoped by origin, so `localhost:8080`, `127.0.0.1:8080`, another port, and opening `index.html` directly are treated as separate saved locations.
+
+Use the store selector in the header to switch between:
+
+- **Hulimavu:** approximately 2,000 sq ft retail
+- **Arekkere:** 1,073 sq ft retail with a 55 sq-ft toilet, left stair/landing display risk zone and right-side glazing
 
 ## What you can edit
 
@@ -38,7 +43,16 @@ Use the same URL each time. Browser storage is scoped by origin, so `localhost:8
 - See stocked rack shelves, staples bins, fresh displays, refrigeration, billing and architectural boundaries in 3D
 - Export the edited 2D plan as SVG or PNG
 
-## Initial planning concept
+## Arekkere concept
+
+- 36 staples bins, reduced from the earlier 48-bin proposal
+- Fresh visible early in the journey
+- Adjacent supervised entry and exit
+- Rice-bag/pallet display allowed at the left stair landing, clearly marked as outside billing control
+- Right boundary treated as glazing; fixtures may still be placed there deliberately
+- Separate browser save and import/export file names from Hulimavu
+
+## Initial Hulimavu planning concept
 
 - Fresh is the first strong view after entry
 - Customer route is Entry turnstile → Fresh → Staples → 5 ft racks → Billing → controlled exit
