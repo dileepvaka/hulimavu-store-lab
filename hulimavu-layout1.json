@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 7,
   "savedAt": "2026-08-08T15:20:44.698Z",
   "items": [
     {
@@ -15,17 +15,20 @@
       "rot": 0
     },
     {
-      "name": "Ambient vegetable layer stand",
+      "name": "One-sided wall rack",
       "w": 280,
-      "h": 62,
-      "color": "#287b48",
-      "feet": 7,
-      "wallSnap": true,
+      "h": 42,
+      "color": "#2d73a8",
+      "rackHeight": 9,
+      "bays": 7,
+      "bayWidth": 1,
+      "category": "Ambient vegetables",
+      "snapMode": "edge",
       "id": "f6",
-      "type": "vegstand",
-      "x": -54,
-      "y": 880,
-      "rot": 90
+      "type": "wall",
+      "x": -64,
+      "y": 890,
+      "rot": 270
     },
     {
       "name": "Fresh table",

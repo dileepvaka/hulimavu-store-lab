@@ -18,7 +18,10 @@ Use the same URL each time. Browser storage is scoped by origin, so `localhost:8
 
 - Drag floor racks, wall-side racks, fresh tables, chillers/freezers, staples bins, pallets, billing counters and entry turnstiles
 - Configure rack height, number of bays and 1–1.5 ft bay width before adding
-- Floor racks are represented as two-sided; wall racks and ambient vegetable stands are one-sided and snap to the nearest wall
+- Floor racks are represented as two-sided; wall racks are one-sided
+- Racks can be categorised as General, Ambient vegetables, Staples, FMCG or General merchandise
+- Each rack can use free/grid placement or edge snapping against walls, the partition, fixed shaft or another rack
+- Umbrella/broom stands remain available for long goods; the separate vegetable-stand fixture has been removed
 - Rack height is metadata (typically 5 ft floor / up to 9 ft wall) and no longer changes the top-view footprint length
 - Configure chiller/freezer type and length, ice-cream chest-freezer size, ambient vegetable-stand width, bin count, pallet count and quantity
 - Add any number of billing counters and turnstiles from the fixture library
