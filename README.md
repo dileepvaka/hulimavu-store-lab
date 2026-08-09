@@ -46,7 +46,7 @@ Use the store selector in the header to switch between:
 
 ## Arekkere concept
 
-- 36 staples bins, reduced from the earlier 48-bin proposal
+- 48 staples bins in the approved default layout
 - Fresh visible early in the journey, with an ambient-vegetable two-sided rack placed freely in the middle
 - Adjacent supervised entry and exit aligned directly with the left staircase: entry on the left, exit on the right
 - Rice-bag/pallet display allowed at the left stair landing, clearly marked as outside billing control
