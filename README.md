@@ -33,6 +33,7 @@ Use the store selector in the header to switch between:
 - Add any number of billing counters and turnstiles from the fixture library
 - Click a fixture to edit rack height, bays, bay width, equipment type, length, or bin/pallet count
 - Double-click or press `R` to rotate a selected fixture
+- Undo or redo up to 50 recent layout actions using the toolbar or `Ctrl/Cmd+Z` and `Ctrl/Cmd+Shift+Z`
 - Use arrow keys to nudge; Delete/Backspace to remove
 - Drag the blue rear-partition handle vertically
 - Toggle customer flow, old partition and annotations
