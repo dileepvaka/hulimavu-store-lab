@@ -59,7 +59,7 @@ Use the store selector in the header to switch between:
 - Customer route is Entry turnstile → Fresh → Staples → 5 ft racks → Billing → controlled exit
 - Entry and exit sit beside each other, separated by a configurable low partition/rail
 - Exit is channelled past the billing counters, giving the biller direct sight of both entry and exit
-- 42 circular staples bins are retained (28-bin and 14-bin banks)
+- 40 staples bins are retained in the approved Hulimavu default
 - Nine office workstations and the fixed shaft are retained
 - Proposed partition position targets approximately 2,000 sq ft retail area
 
