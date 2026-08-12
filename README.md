@@ -30,7 +30,7 @@ Use the store selector in the header to switch between:
 - Umbrellas and broom sticks use a compact 1 ft × 1 ft square long-goods bin; the separate vegetable-stand fixture has been removed
 - Rack height is metadata (typically 5 ft floor / up to 9 ft wall) and no longer changes the top-view footprint length
 - Configure chiller/freezer type and length, ice-cream chest-freezer size, bin count, pallet count and quantity
-- Hulimavu includes an optional rounded, one-tier, two-sided fresh island: flexible length, fixed 4 ft width, with lower crates shown only in 3D
+- Hulimavu includes an optional rounded, one-tier, two-sided fresh island: flexible length, fixed 3 ft width, with lower crates shown only in 3D
 - Add any number of billing counters and turnstiles from the fixture library
 - Click a fixture to edit rack height, bays, bay width, equipment type, length, or bin/pallet count
 - Double-click or press `R` to rotate a selected fixture
